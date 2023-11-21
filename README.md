@@ -1,4 +1,7 @@
-# Stat-Solver
+# Nigerian Graduate Destination
+![](https://github.com/KoreJosh/Nigerian-Graduate-Destination-Survey/blob/main/4l19533-grad.jpg)
+
+
 Optimizing Educational Infrastructure for Sustainable Employment and Future Success of Nigerian Graduates
 
 
