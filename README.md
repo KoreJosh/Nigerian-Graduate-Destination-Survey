@@ -66,7 +66,7 @@ The Data is gotten from kaggle and was gathered by statun ( an online platforms 
  - Checked for thr percentage missing data
  - Filled the columns 'Whats your current role' with the Column' Whats your first job after graduation'.
  - For missing entries in the 'NYSC completion' Column filled it with 'No'
- - 
+  
 # Exploratory Data Analysis
  The followings insights were answered using the cleaned dataset:
 - Top 15 Sectoes:
@@ -87,8 +87,10 @@ The Data is gotten from kaggle and was gathered by statun ( an online platforms 
  - There was equal representataion of both gender (male and female) in the analysis, also there was no gender bias in employment.
  - 65% of the graduates completed their NYSC program while another 14% are still on with their program.
  - The survey showed we had more graduates from 2015 to 2017, and for the 5 years of survey, we had students study these courses the most ( Business Admin, Biochemistry, Accountacy, Banking and Finances).
+   
    _causation is not always causation_, **But**
-              we recorded more employment opportunities for these courses with  Accountacy taking the lead.
+
+   we recorded more employment opportunities for these courses with  Accountacy taking the lead.
  - Monthly income by Degree: we had few graduates with MBA and PHD earning above #250,000 as against Bachelor degree holders.
  - Most preferred work sectors are: Oil & Gas, Technology , Banking and Finance Service. with Andela, Shell, KPMG, Banks been the top employers with the best opportunities.
  - With over 40% record most gradutes got their jobs through Personal Contacts, including family and friends, followed by Social media(20%), Recruitment Agency(20%).
