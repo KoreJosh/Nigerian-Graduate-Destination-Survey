@@ -11,7 +11,7 @@ The eductional infastructure for Nigerian Graduates faces challenges that hinder
 The Data is gotten from kaggle and was gathered by statun ( an online platforms that aims to connect graduates to job opportunities).
 
 # Tools
- Python Jupyter nootbook was used for the analysis while packages such as matplotlib and seaborn was used for visualization and pandas used for dataset manipulation
+ Python Jupyter nootbook was used for the analysis while packages such as **matplotlib** and **seaborn** was used for visualization and **pandas** used for dataset manipulation
 
 # Data Cleaning /  Preparation
  - Checked for thr percentage missing data
@@ -36,7 +36,32 @@ The Data is gotten from kaggle and was gathered by statun ( an online platforms 
 
 # Result/ Findings>:
  - There was equal representataion of both gender (male and female) in the analysis, also there was no gender bias in employment.
- - 65% of the graduates completed their NYSC program while another 14% are stil
+ - 65% of the graduates completed their NYSC program while another 14% are still on with their program.
+ - The survey showed we had more graduates from 2015 to 2017, and for the 5 years of survey, we had students study these courses the most ( Business Admin, Biochemistry, Accountacy, Banking and Finances).
+   _causation is not always causation_, **But**
+              we recorded more employment opportunities for these courses with  Accountacy taking the lead.
+ - Monthly income by Degree: we had few graduates with MBA and PHD earning above #250,000 as against Bachelor degree holders.
+ - Most preferred work sectors are: Oil & Gas, Technology , Banking and Finance Service. with Andela, Shell, KPMG, Banks been the top employers with the best opportunities.
+ - With over 40% record most gradutes got their jobs through Personal Contacts, including family and friends, followed by Social media(20%), Recruitment Agency(20%).
+ - We recorded close to 35% unemployment rate among graduates during the span of these analysis.
+    There is alot of disguise for unemployment among graduates, meaning there has been different engagement  that graduates have coined not to be stigmatized as been unemployed, such as : - Engaged in part time futher studies,
+                      - Doing something else,
+                      - Taking time out to prepare for futher studies,
+                      - Voluntering or Other unpayed work,
+                      - Youth coper.
+- Most studies course didn't align with most opportunistic job positions.  as futher studies or certifications are needed, same goes for most preferred work sector.
+
+# Recommendation 
+
+1. Survey like this should be carried out from time to time, to better understand the dynamic change in employment opportunities.
+2. Counselling should be done for students prior to taking on advance studies to futher pivot them for better opportunities and align them to their strenght.
+3. Upskilling and Reskilling 
+4. Career support program should be organised by inistuitions of learing to futher aid employablility.
+
+# Coclusion
+
+The challenge of optimizing educational infrastructure for sustainable employment and the future success of Nigerian graduates is multi-faceted. However, theough collaborative efforts from educational instituitions, policy makers, and employers, we can provide support and ensuire a better future for Nigeria graduates.
+
   
 # **Data Set Description**
 
