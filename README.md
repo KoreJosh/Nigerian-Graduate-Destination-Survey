@@ -10,7 +10,34 @@ The eductional infastructure for Nigerian Graduates faces challenges that hinder
 # Data Source
 The Data is gotten from kaggle and was gathered by statun ( an online platforms that aims to connect graduates to job opportunities).
 
+# Tools
+ Python Jupyter nootbook was used for the analysis while packages such as matplotlib and seaborn was used for visualization and pandas used for dataset manipulation
 
+# Data Cleaning /  Preparation
+ - Checked for thr percentage missing data
+ - Filled the columns 'Whats your current role' with the Column' Whats your first job after graduation'.
+ - For missing entries in the 'NYSC completion' Column filled it with 'No'
+ - 
+# Exploratory Data Analysis
+ The followings insights were answered using the cleaned dataset:
+- Top 15 Sectoes:
+     most sector where graduates were employed
+-  Employment by Gender
+-  Income By Degree
+-  Most Preferred work Sector
+-  Most Studied Course
+-  Most Employable Courses over the 5 year span
+-  Does extra qualification lead to better Job placement?
+-  Number of Jobs after Graduation by Percentage
+-  Monthly Income by Degree
+-  How Did you find out ABOUT YOUR JOB?
+-  Employment Status
+-  Nysc Completion
+
+# Result/ Findings>:
+ - There was equal representataion of both gender (male and female) in the analysis, also there was no gender bias in employment.
+ - 65% of the graduates completed their NYSC program while another 14% are stil
+  
 # **Data Set Description**
 
 | Column Name                                                      | Description                                                                                                      |
