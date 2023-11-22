@@ -1,8 +1,14 @@
 # Nigerian Graduate Destination
 ![](https://github.com/KoreJosh/Nigerian-Graduate-Destination-Survey/blob/main/4l19533-grad.jpg)
 
-
+# Introduction
 Optimizing Educational Infrastructure for Sustainable Employment and Future Success of Nigerian Graduates
+
+# Problem Statement
+The eductional infastructure for Nigerian Graduates faces challenges that hinders their sustainable employment and future success. Issues such as limited job mobility, course relevance in the real world, avaliable job opportunities and qualification needed, present obstacles. This analysis aims to look into the employment roadmap for  the past 5 years among Nigerian graduates.
+
+# Data Source
+The Data is gotten from kaggle and was gathered by statun ( an online platforms that aims to connect graduates to job opportunities).
 
 
 # **Data Set Description**
